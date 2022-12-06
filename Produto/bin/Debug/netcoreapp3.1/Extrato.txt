@@ -1,0 +1,2 @@
+Extrato de sugestão
+produtos com estoque menor que o valor mínimo: 

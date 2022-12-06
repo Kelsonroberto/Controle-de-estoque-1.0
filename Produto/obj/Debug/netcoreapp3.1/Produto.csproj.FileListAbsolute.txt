@@ -1,0 +1,14 @@
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.exe
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.deps.json
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.json
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.dev.json
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.dll
+C:\Users\kelso\source\repos\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.pdb
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.AssemblyReference.cache
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfoInputs.cache
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfo.cs
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.CoreCompileInputs.cache
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.dll
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.pdb
+C:\Users\kelso\source\repos\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.genruntimeconfig.cache
