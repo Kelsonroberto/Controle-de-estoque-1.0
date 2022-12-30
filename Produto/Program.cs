@@ -19,7 +19,10 @@ namespace Produto
         }
         static void Main(string[] args)
         {
-            dados[] prod = new dados[100];
+            //caso seja necessario alterar o tamanho máximo de dados para o armazenamento.
+            int qtdMaximaDados = 100;
+
+            dados[] prod = new dados[qtdMaximaDados];
             int opc;
             int quantidade = 0;
 
@@ -73,7 +76,6 @@ namespace Produto
             {
                 Console.WriteLine("Por favor digite uma descrição para o produto: ");
                 prod[quant].descricao = Console.ReadLine().ToUpper();
-
             }
 
             Console.WriteLine("Digite o valor do produto: ");
